@@ -11,14 +11,6 @@
       "sha256": "26feafeb3859ddcd5b719387d04f48b415f6bee974676fe89746d05f31d9eac8"
     },
     {
-      "file": "openos-1.8.10.ocd",
-      "label": "OpenOS 1.8.10",
-      "system": "OpenOS",
-      "version": "1.8.10",
-      "size": 152648,
-      "sha256": "f9fbebeb5977c24eeb4443be4b7ff6ddd2f6d3ea39321075949a8b0cea9d8936"
-    },
-    {
       "file": "mineos-new.ocd",
       "label": "MineOS (New)",
       "system": "MineOS",

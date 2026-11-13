@@ -7,7 +7,6 @@ The emulator reads `index.json` and downloads the images into its `disks/` folde
 | File | System | Version |
 | --- | --- | --- |
 | openos-1.7.5.ocd | OpenOS | 1.7.5 |
-| openos-1.8.10.ocd | OpenOS | 1.8.10 |
 | mineos-new.ocd | MineOS | New |
 
 `index.json` format:
