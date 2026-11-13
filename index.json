@@ -16,7 +16,12 @@
       "system": "MineOS",
       "version": "New",
       "size": 1460990,
-      "sha256": "bdc59b1ede2f2bc5c7c27e89f8aae65233ba8c538b739f528c6fea505f624973"
+      "sha256": "bdc59b1ede2f2bc5c7c27e89f8aae65233ba8c538b739f528c6fea505f624973",
+      "efi": {
+        "file": "mineos-new.efi",
+        "size": 3876,
+        "sha256": "0424b98798bbc31a78bd3fff458c9e04694999fde4c4cb91973294409a19ef68"
+      }
     },
     {
       "file": "plan9k.ocd",
@@ -25,6 +30,19 @@
       "version": "Pipes 1.2",
       "size": 129882,
       "sha256": "e3528c9f05c2f7b12722602d62591ab67ba8435672021e76e43763ff80038443"
+    },
+    {
+      "file": "fuchas.ocd",
+      "label": "FuchasOS",
+      "system": "FuchasOS",
+      "version": "0.7.0",
+      "size": 454512,
+      "sha256": "ebd7c146e31d3b8949e6bf07814115fc82483b69ea0db5049a2093d852105d9c",
+      "efi": {
+        "file": "fuchas.efi",
+        "size": 1245,
+        "sha256": "8687944e19278a72361f8e25adefcf4c9d2d1ba1b24d5a77bcfda5a407206b90"
+      }
     }
   ]
 }
