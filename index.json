@@ -1,0 +1,30 @@
+{
+  "name": "OC Emulator disk images",
+  "updated": "2026-11-13",
+  "disks": [
+    {
+      "file": "openos-1.7.5.ocd",
+      "label": "OpenOS 1.7.5",
+      "system": "OpenOS",
+      "version": "1.7.5",
+      "size": 152594,
+      "sha256": "26feafeb3859ddcd5b719387d04f48b415f6bee974676fe89746d05f31d9eac8"
+    },
+    {
+      "file": "openos-1.8.10.ocd",
+      "label": "OpenOS 1.8.10",
+      "system": "OpenOS",
+      "version": "1.8.10",
+      "size": 152648,
+      "sha256": "f9fbebeb5977c24eeb4443be4b7ff6ddd2f6d3ea39321075949a8b0cea9d8936"
+    },
+    {
+      "file": "mineos-new.ocd",
+      "label": "MineOS (New)",
+      "system": "MineOS",
+      "version": "New",
+      "size": 1460990,
+      "sha256": "bdc59b1ede2f2bc5c7c27e89f8aae65233ba8c538b739f528c6fea505f624973"
+    }
+  ]
+}
