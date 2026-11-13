@@ -17,6 +17,14 @@
       "version": "New",
       "size": 1460990,
       "sha256": "bdc59b1ede2f2bc5c7c27e89f8aae65233ba8c538b739f528c6fea505f624973"
+    },
+    {
+      "file": "plan9k.ocd",
+      "label": "Plan9k",
+      "system": "Plan9k",
+      "version": "Pipes 1.2",
+      "size": 129882,
+      "sha256": "e3528c9f05c2f7b12722602d62591ab67ba8435672021e76e43763ff80038443"
     }
   ]
 }

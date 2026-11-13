@@ -8,6 +8,7 @@ The emulator reads `index.json` and downloads the images into its `disks/` folde
 | --- | --- | --- |
 | openos-1.7.5.ocd | OpenOS | 1.7.5 |
 | mineos-new.ocd | MineOS | New |
+| plan9k.ocd | Plan9k | Pipes 1.2 (installed, bootable) |
 
 `index.json` format:
 
